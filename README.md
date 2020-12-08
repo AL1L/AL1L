@@ -2,9 +2,9 @@
 
 I'm Allen
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AL1L&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AL1L&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
